@@ -21,5 +21,5 @@ The program uses modular static methods to perform different tasks based on the 
 3. Based on the choice, the respective operation is performed.  
 4. The process continues until the user exits by entering a number greater than 8.
 
-## Example Menu
+
 
